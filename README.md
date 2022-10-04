@@ -1,1 +1,1 @@
-# Omnifood-Project is a website using only HTML & CSS
+# Omnifood-Project is a single page website using only raw HTML & CSS
